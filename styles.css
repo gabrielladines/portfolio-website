@@ -1,0 +1,42 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(209, 254, 253);
+    margin-left: 20px;
+    font-size: 18px;
+
+    .lato-thin {
+        font-family: "Lato", sans-serif;
+        font-weight: 100;
+        font-style: normal;
+    }
+}
+
+.menu {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    align-self: center;
+    padding: 16px;
+
+}
+
+.menu-item {
+    color: snow;
+    background-color: #AC92A6;
+    padding-inline: 16px;
+    padding-block: 8px;
+    border-radius: 8px;
+    text-decoration: none;
+    margin-inline: 2px;
+}
+
+.menu-item:hover {
+    background-color: rgba(172, 146, 166, 0.7);
+}
+
+
+.menu-item:visited {
+    color: snow;
+    text-decoration: none;
+}
