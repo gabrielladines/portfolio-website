@@ -59,13 +59,13 @@ nav {
     align-items: center;
     text-align: center;
     padding: 0 10%;
-    filter: blur(3px);
+    /* filter: blur(3px); */
 }
 
 .hero h1 {
     font-size: 3rem;
     font-weight: 700;
-    filter: blur(3px);
+    /* filter: blur(3px); */
 }
 
 .subtitle {
@@ -73,7 +73,7 @@ nav {
     margin: 20px 0;
     font-size: 1.2rem;
     color: #cbd5e1;
-    filter: blur(3px);
+    /* filter: blur(3px); */
 }
 
 .btn {
@@ -94,18 +94,18 @@ nav {
 /* Sections */
 .section {
     padding: 80px 10%;
-    filter: blur(3px);
+    /* filter: blur(3px); */
 }
 
 .section h2 {
     font-size: 2.2rem;
     margin-bottom: 30px;
-    filter: blur(3px);
+    /* filter: blur(3px); */
 }
 
 .section.light {
     background: #39393e1b;
-    filter: blur(3px);
+    /* filter: blur(3px); */
 }
 
 /* Skills */
@@ -128,7 +128,7 @@ nav {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
     gap: 25px;
-    filter: blur(3px);
+    /* filter: blur(3px); */
 }
 
 .project-card {
