@@ -129,7 +129,7 @@ nav {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
     gap: 25px;
-    /* filter: blur(3px); */
+    filter: blur(10px);
 }
 
 .project-card {
