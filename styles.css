@@ -125,7 +125,35 @@ nav {
 }
 
 /* Projects */
+/* .projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 25px;
+    /* filter: blur(10px); */
+/* }  */
 
+/* .project-card {
+    background: #39393e1b;
+    padding: 25px;
+    border-radius: 16px;
+    transition: 0.3s;
+} */
+
+/* .project-card:hover {
+    transform: translateY(-6px);
+} */
+
+/* .project-card-mortgage-calc {
+    background: #39393e1b;
+    padding: 25px;
+    border-radius: 16px;
+    transition: 0.3s;
+    
+}
+
+.project-card-mortgage-calc:hover {
+    transform: translateY(-6px);
+} */
 
 .projects2-links {
     display: flex;
@@ -138,7 +166,7 @@ nav {
     border: 1px solid #39393e1b;
     border-radius: 25px;
     text-decoration: none;
-    color:#39393e1b;
+    color: #39393e1b;
     transition: 0.3s;
     grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
     color: #0f0f14;
@@ -147,8 +175,8 @@ nav {
 }
 
 .projects2-btn:hover {
-    background-color:currentColor;
-    color:#39393e1b;
+    background-color: currentColor;
+    color: #39393e1b;
     transform: translateY(-6px);
 }
 
@@ -331,7 +359,6 @@ footer {
 }
 
 .projects2
-
 /* Projects */
 /* .projects-grid {
     display: grid;
@@ -380,7 +407,7 @@ footer {
 
 /* .project-card-mortgage-calc:hover {
     transform: translateY(-6px); */
-/* } */ 
+/* } */
 
 /* Contact */
 .contact-links {
